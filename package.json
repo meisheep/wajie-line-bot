@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@line/bot-sdk": "^5.0.1",
+    "dotenv": "^4.0.0"
+  }
+}
